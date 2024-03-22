@@ -22,7 +22,7 @@ Selamat datang di repositori Tugas Praktikum Ke-3 Pemrograman Berbasis Web! Repo
 
 # Menjalan kan Program main.go
 - $ go run .
-![Screenshot 2024-03-22 235206](https://github.com/ramadhaniprasety0/PrakPemrogramanBerbasisWeb/assets/109285562/5749efa8-fa88-493a-9ff3-59a182543029)
+- ![Screenshot 2024-03-22 235206](https://github.com/ramadhaniprasety0/PrakPemrogramanBerbasisWeb/assets/109285562/5749efa8-fa88-493a-9ff3-59a182543029)
 
 ---
 
