@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Praktikum_03/ratarata"
+	"Praktikum03_Progo/ratarata"
 	"fmt"
 )
 
