@@ -7,7 +7,7 @@ Selamat datang di repositori Tugas Praktikum Ke-4 Pemrograman Berbasis Web! Repo
 
 ---
 ## Tugas 1
-# $ go mod init Tugas 1
+# $ go mod init Tugas_02
 ![Screenshot 2024-04-04 203204](https://github.com/ramadhaniprasety0/PrakPemrogramanBerbasisWeb/assets/109285562/687156eb-8cbe-4890-a098-ca6f2a4369a1)
 # Main.go
 ![Screenshot 2024-04-04 203537](https://github.com/ramadhaniprasety0/PrakPemrogramanBerbasisWeb/assets/109285562/5723caec-58c3-47ff-8b2b-4b042ab6c557)
