@@ -13,6 +13,13 @@ Selamat datang di repositori Tugas Praktikum Ke-6 Pemrograman Berbasis Web! Repo
 # errors.go
 ![image](https://github.com/ramadhaniprasety0/PrakPemrogramanBerbasisWeb/assets/109285562/157dd4ad-f17a-4ec9-bae5-4ca2cbea66ab)
 
+# Validation Error
+![image](https://github.com/ramadhaniprasety0/PrakPemrogramanBerbasisWeb/assets/109285562/5bee8130-ab11-44ae-a332-58b0580328ca)
+
+# NotfoundError
+![image](https://github.com/ramadhaniprasety0/PrakPemrogramanBerbasisWeb/assets/109285562/f833e533-4cf5-477a-a164-4f54b837a5cf)
+
+
 ## Latihan 2
 
 # $ go mod int Latihan02
