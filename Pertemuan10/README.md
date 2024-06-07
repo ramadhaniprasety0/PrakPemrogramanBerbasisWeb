@@ -8,9 +8,9 @@ Selamat datang di repositori Tugas Praktikum Ke-10 Pemrograman Berbasis Web! Rep
 ---
 
 # API DENGAN GOLANG MENGUNAKAN GORILLA DAN UUID
-## Gorilla Mux adalah sebuah toolkit dan framework untuk membuat aplikasi web di Go (Golang). Gorilla menyediakan beberapa paket yaitu routing, session management, web sockets, dan lainnya. Paket yang paling terkenal dari Gorilla adalah gorilla/mux, sebuah router yang fleksibel untuk menangani URL routing di aplikasi web.
+Gorilla Mux adalah sebuah toolkit dan framework untuk membuat aplikasi web di Go (Golang). Gorilla menyediakan beberapa paket yaitu routing, session management, web sockets, dan lainnya. Paket yang paling terkenal dari Gorilla adalah gorilla/mux, sebuah router yang fleksibel untuk menangani URL routing di aplikasi web.
 
-## UUID adalah standar untuk pengidentifikasi unik yang digunakan dalam pengembangan perangkat lunak. UUID adalah 128-bit number yang digunakan untuk mengidentifikasi informasi dalam sistem komputer. UUID sangat berguna untuk memastikan bahwa pengidentifikasi tetap unik di berbagai konteks, seperti database, sesi pengguna, dan lebih banyak lagi
+UUID adalah standar untuk pengidentifikasi unik yang digunakan dalam pengembangan perangkat lunak. UUID adalah 128-bit number yang digunakan untuk mengidentifikasi informasi dalam sistem komputer. UUID sangat berguna untuk memastikan bahwa pengidentifikasi tetap unik di berbagai konteks, seperti database, sesi pengguna, dan lebih banyak lagi
 
 ---
 
